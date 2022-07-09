@@ -1,4 +1,6 @@
 ### Hi there 👋
+- Hongkonger in Japan 🇯🇵
+- 🔭 Aiming to be a software developer
 
 <!--
 **clementckmc/clementckmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
