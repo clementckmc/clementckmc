@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there I am Clement👋
 - Hongkonger in Japan 🇯🇵
-- 🔭 Aiming to be a software developer
+- Full-stack/backend developer
+- Ruby on Rails | Django | Javascript | HTML | CSS
 
 <!--
 **clementckmc/clementckmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
