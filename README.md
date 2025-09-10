@@ -1,6 +1,6 @@
 ### Hi there I am Clement👋
 - Hongkonger in Japan 🇯🇵
-- Full-stack/backend developer
+- Full-stack developer
 - 👨‍💻 All of my projects are available at [https://clementchoi.com/](https://clementchoi.com/)
 - 📒 Medium: https://medium.com/@clementchoi-rb
 
